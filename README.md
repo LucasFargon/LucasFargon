@@ -20,5 +20,3 @@
 </div>
  
 ![Snake animation](https://github.com/LucasFargon/LucasFargon/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LucasFagon&repo=LucasFargon&theme=react)](https://github.com/LucasFargon/LucasFargon)
