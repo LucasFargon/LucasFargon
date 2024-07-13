@@ -1,1 +1,1 @@
-## Olá, me chamo Lucas. Atualmente sou estudande e estou fazendo um curso de programção, estamos aprendendo sobre a linguagem C# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+## Olá, me chamo Lucas. Atualmente sou um estudande e estou fazendo um curso de programção, estamos aprendendo sobre a linguagem C# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
