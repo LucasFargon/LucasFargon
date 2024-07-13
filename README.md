@@ -1,4 +1,4 @@
-## Olá! Me chamo Lucas, atualmente sou um estudande e estou fazendo um curso de programção sobre a linguagem C#!
+## Olá! Me chamo Lucas Farias, atualmente sou um estudande e estou fazendo um curso de programção sobre a linguagem C#!
  
 <div>
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
