@@ -16,7 +16,7 @@
 <div>
 <a href="https://github.com/LucasFargon">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFargon&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFargon&leyout=compact&langs_count=16&theme=tokyonight&hide_progress=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFargon&leyout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  
 ![Snake animation](https://github.com/LucasFargon/LucasFargon/blob/output/github-contribution-grid-snake.svg)
